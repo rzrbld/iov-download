@@ -1,6 +1,6 @@
 {
-  "name": "ovi download",
-  "version": "1.0.4",
+  "name": "Ovi-store download",
+  "version": "1.0.5",
   "manifest_version": 2,
   "description": "Unofficial add-on. Adds a button 'Download' for free content in Ovi store, without manipulation of the user-agent.",
   "homepage_url": "https://github.com/rzrbld",
@@ -11,7 +11,6 @@
   },
   "default_locale": "en",
   "permissions": [
-    "contentSettings",
     "http://store.ovi.com/content*",
     "https://store.ovi.com/content*"
   ],
