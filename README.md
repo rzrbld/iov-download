@@ -11,10 +11,10 @@ and script for parching jad files to get jar url and converting sis(x).dm to sis
 
 
 #requirements
-!software part
--opera
--linux like OS
--wget, awk, zenity
+software part:<br/>
+*opera
+*linux like OS
+*jad parcer sh script: wget, awk, zenity
 
 #installation
 opera automatic.
